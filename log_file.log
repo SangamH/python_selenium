@@ -1,0 +1,146 @@
+2018-05-28 17:03:24,647 [9607]: INFO Executing with Chrome browser.
+2018-05-28 17:03:24,751 [9607]: INFO Browser initialized
+2018-05-28 17:03:24,751 [9607]: INFO Loading Sign Up Page
+2018-05-28 17:05:27,897 [9824]: INFO Executing with Chrome browser.
+2018-05-28 17:05:28,003 [9824]: INFO Browser initialized
+2018-05-28 17:05:28,003 [9824]: INFO Loading Sign In Page
+2018-05-28 17:08:26,907 [10089]: INFO Executing with Chrome browser.
+2018-05-28 17:08:27,011 [10089]: INFO Browser initialized
+2018-05-28 17:08:27,012 [10089]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-28 17:10:01,157 [10295]: INFO Executing with Chrome browser.
+2018-05-28 17:10:01,261 [10295]: INFO Browser initialized
+2018-05-28 17:10:01,262 [10295]: INFO Loading Sign in page
+2018-05-28 17:12:33,456 [10596]: INFO Executing with Chrome browser.
+2018-05-28 17:12:33,560 [10596]: INFO Browser initialized
+2018-05-28 17:12:33,561 [10596]: INFO Loading Sign in page
+2018-05-28 17:14:58,618 [10817]: INFO Executing with Chrome browser.
+2018-05-28 17:14:58,722 [10817]: INFO Browser initialized
+2018-05-28 17:14:58,723 [10817]: INFO Loading Sign in page
+2018-05-28 17:16:20,263 [11033]: INFO Executing with Chrome browser.
+2018-05-28 17:16:20,367 [11033]: INFO Browser initialized
+2018-05-28 17:16:20,368 [11033]: INFO Loading Sign in page
+2018-05-28 17:18:06,366 [11239]: INFO Executing with Chrome browser.
+2018-05-28 17:18:06,470 [11239]: INFO Browser initialized
+2018-05-28 17:18:06,471 [11239]: INFO Loading Sign in page
+2018-05-28 17:18:06,471 [11239]: INFO ---------
+2018-05-28 17:20:33,535 [11463]: INFO Executing with Chrome browser.
+2018-05-28 17:20:33,639 [11463]: INFO Browser initialized
+2018-05-28 17:20:33,640 [11463]: INFO Loading Sign in page
+2018-05-28 17:20:33,640 [11463]: INFO ---------
+2018-05-28 17:22:04,668 [11656]: INFO Executing with Chrome browser.
+2018-05-28 17:22:04,772 [11656]: INFO Browser initialized
+2018-05-28 17:22:04,773 [11656]: INFO Loading Sign in page
+2018-05-28 17:22:04,773 [11656]: INFO ---------
+2018-05-28 17:40:02,060 [12551]: INFO Executing with Chrome browser.
+2018-05-28 17:40:02,165 [12551]: INFO Browser initialized
+2018-05-28 17:40:02,165 [12551]: INFO Loading Sign in page
+2018-05-28 17:40:02,166 [12551]: INFO ---------
+2018-05-28 17:41:12,092 [12753]: INFO Executing with Chrome browser.
+2018-05-28 17:41:12,196 [12753]: INFO Browser initialized
+2018-05-28 17:41:12,197 [12753]: INFO Loading Sign in page
+2018-05-28 17:41:12,197 [12753]: INFO ---------
+2018-05-28 17:43:43,787 [13052]: INFO Executing with Chrome browser.
+2018-05-28 17:43:43,892 [13052]: INFO Browser initialized
+2018-05-28 17:43:43,892 [13052]: INFO Loading Sign in page
+2018-05-28 17:43:43,893 [13052]: INFO ---------
+2018-05-28 17:44:33,004 [13229]: INFO Executing with Chrome browser.
+2018-05-28 17:44:33,108 [13229]: INFO Browser initialized
+2018-05-28 17:44:33,108 [13229]: INFO Loading Sign in page
+2018-05-28 17:44:33,109 [13229]: INFO ---------
+2018-05-28 17:45:02,576 [13396]: INFO Executing with Chrome browser.
+2018-05-28 17:45:02,680 [13396]: INFO Browser initialized
+2018-05-28 17:45:02,681 [13396]: INFO Loading Sign in page
+2018-05-28 17:45:02,681 [13396]: INFO ---------
+2018-05-28 17:45:37,897 [13569]: INFO Executing with Chrome browser.
+2018-05-28 17:45:38,001 [13569]: INFO Browser initialized
+2018-05-28 17:45:38,002 [13569]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-28 17:45:38,002 [13569]: INFO ---------
+2018-05-28 17:46:58,480 [13806]: INFO Executing with Chrome browser.
+2018-05-28 17:46:58,585 [13806]: INFO Browser initialized
+2018-05-28 17:46:58,585 [13806]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-28 17:46:58,585 [13806]: INFO self.driver.title
+2018-05-28 17:47:23,190 [13974]: INFO Executing with Chrome browser.
+2018-05-28 17:47:23,293 [13974]: INFO Browser initialized
+2018-05-28 17:47:23,294 [13974]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-28 17:47:23,294 [13974]: INFO self.driver.title
+2018-05-28 17:47:55,002 [14149]: INFO Executing with Chrome browser.
+2018-05-28 17:47:55,106 [14149]: INFO Browser initialized
+2018-05-28 17:47:55,106 [14149]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-28 17:49:05,650 [14341]: INFO Executing with Chrome browser.
+2018-05-28 17:49:05,754 [14341]: INFO Browser initialized
+2018-05-28 17:52:30,385 [14636]: INFO Executing with Chrome browser.
+2018-05-28 17:52:30,489 [14636]: INFO Browser initialized
+2018-05-28 17:52:58,100 [14818]: INFO Executing with Chrome browser.
+2018-05-28 17:52:58,204 [14818]: INFO Browser initialized
+2018-05-28 17:53:27,955 [14968]: INFO Executing with Chrome browser.
+2018-05-28 17:53:28,059 [14968]: INFO Browser initialized
+2018-05-28 17:54:01,946 [15120]: INFO Executing with Chrome browser.
+2018-05-28 17:54:02,050 [15120]: INFO Browser initialized
+2018-05-28 17:55:30,117 [15317]: INFO Executing with Chrome browser.
+2018-05-28 17:56:38,683 [15518]: INFO Executing with Chrome browser.
+2018-05-28 17:56:38,787 [15518]: INFO Browser initialized
+2018-05-28 17:58:37,395 [15757]: INFO Executing with Chrome browser.
+2018-05-28 17:58:37,499 [15757]: INFO Browser initialized
+2018-05-28 17:58:45,486 [15757]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-28 17:58:45,660 [15757]: ERROR Entered data for login - Username: testbyqateam
+2018-05-28 17:58:45,660 [15757]: ERROR Entered data for login - Password: Test@123 
+2018-05-28 17:59:06,899 [15757]: ERROR Logged in with : testbyqateam  id
+2018-05-29 12:02:36,258 [4117]: INFO Executing with Chrome browser.
+2018-05-29 12:02:36,456 [4117]: INFO Browser initialized
+2018-05-29 12:02:44,870 [4117]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-29 12:02:45,183 [4117]: ERROR Entered data for login - Username: testbyqateam
+2018-05-29 12:02:45,183 [4117]: ERROR Entered data for login - Password: Test@123 
+2018-05-29 12:02:59,648 [4117]: ERROR Logged in with : testbyqateam  id
+2018-05-29 12:03:01,103 [4117]: INFO Executing with Chrome browser.
+2018-05-29 12:03:01,209 [4117]: INFO Browser initialized
+2018-05-29 12:05:30,732 [4547]: INFO Executing with Chrome browser.
+2018-05-29 12:05:30,838 [4547]: INFO Browser initialized
+2018-05-29 12:05:38,503 [4547]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-29 12:05:38,734 [4547]: ERROR Entered data for login - Username: testbyqateam
+2018-05-29 12:05:38,734 [4547]: ERROR Entered data for login - Password: Test@123 
+2018-05-29 12:05:53,679 [4547]: ERROR Logged in with : testbyqateam  id
+2018-05-29 12:11:28,456 [4945]: INFO Executing with Chrome browser.
+2018-05-29 12:11:28,561 [4945]: INFO Browser initialized
+2018-05-29 12:11:36,714 [4945]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-29 12:11:36,944 [4945]: ERROR Entered data for login - Username: testbyqateam
+2018-05-29 12:11:36,944 [4945]: ERROR Entered data for login - Password: Test@123 
+2018-05-29 12:12:09,490 [4945]: ERROR Logged in with : testbyqateam  id
+2018-05-29 12:14:54,859 [5237]: INFO Executing with Chrome browser.
+2018-05-29 12:14:54,963 [5237]: INFO Browser initialized
+2018-05-29 12:15:02,602 [5237]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-29 12:15:02,844 [5237]: ERROR Entered data for login - Username: testbyqateam
+2018-05-29 12:15:02,844 [5237]: ERROR Entered data for login - Password: Test@123 
+2018-05-29 12:15:23,985 [5237]: ERROR Logged in with : testbyqateam  id
+2018-05-29 12:16:43,999 [5477]: INFO Executing with Chrome browser.
+2018-05-29 12:16:44,104 [5477]: INFO Browser initialized
+2018-05-29 12:16:52,219 [5477]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-29 12:16:52,455 [5477]: ERROR Entered data for login - Username: testbyqateam
+2018-05-29 12:16:52,456 [5477]: ERROR Entered data for login - Password: Test@123 
+2018-05-29 12:17:14,908 [5477]: ERROR Logged in with : testbyqateam  id
+2018-05-29 12:17:16,311 [5477]: INFO Executing with Chrome browser.
+2018-05-29 12:17:16,416 [5477]: INFO Browser initialized
+2018-05-29 12:17:24,214 [5477]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-29 12:17:24,464 [5477]: ERROR Entered data for login - Username: testbyqateam
+2018-05-29 12:17:24,465 [5477]: ERROR Entered data for login - Password: Test@123 
+2018-05-29 12:17:45,160 [5477]: ERROR Logged in with : testbyqateam  id
+2018-05-29 12:36:55,040 [6641]: INFO Executing with Chrome browser.
+2018-05-29 12:36:55,145 [6641]: INFO Browser initialized
+2018-05-29 12:37:02,832 [6641]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-29 12:37:03,088 [6641]: ERROR Entered data for login - Username: testbyqateam
+2018-05-29 12:37:03,088 [6641]: ERROR Entered data for login - Password: Test@123 
+2018-05-29 12:37:17,131 [6641]: ERROR Logged in with : testbyqateam  id
+2018-05-29 12:37:18,558 [6641]: INFO Executing with Chrome browser.
+2018-05-29 12:37:18,663 [6641]: INFO Browser initialized
+2018-05-29 12:37:18,664 [6641]: ERROR Executed From : %s 
+2018-05-29 13:02:03,988 [7389]: INFO Executing with Chrome browser.
+2018-05-29 13:02:04,093 [7389]: INFO Browser initialized
+2018-05-29 13:02:12,280 [7389]: INFO Loading Sign in pagehttps://www.monkeytest2.com/user/sign-in/
+2018-05-29 13:02:12,531 [7389]: ERROR Entered data for login - Username: testbyqateam
+2018-05-29 13:02:12,531 [7389]: ERROR Entered data for login - Password: Test@123 
+2018-05-29 13:02:32,638 [7389]: ERROR Logged in with : testbyqateam  id
+2018-05-29 13:03:35,897 [7591]: INFO Executing with Chrome browser.
+2018-05-29 13:03:36,001 [7591]: INFO Browser initialized
+2018-05-29 13:03:36,001 [7591]: ERROR Executed From : %s 
+2018-05-29 15:45:51,936 [10256]: INFO Executing with Chrome browser.
+2018-05-29 15:45:52,040 [10256]: INFO Browser initialized
+2018-05-29 15:45:52,040 [10256]: ERROR Executed From : %s 
