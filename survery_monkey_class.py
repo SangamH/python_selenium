@@ -1,8 +1,12 @@
 import time
 from xpath import *
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
+
 from setlog import setLogger
 logger = setLogger(log_file_title)
 class Monkey():
@@ -96,15 +100,15 @@ class Monkey():
                 htmpassword = self.driver.find_element_by_xpath(xpath_list['login_page_xpath_password'])
                 htmpassword.clear()
                 htmpassword.send_keys(self.password)
-                logger.error('Entered data for login - Username: %s' % self.username)
-                logger.error('Entered data for login - Password: %s ' % self.password)
+                logger.info('Entered data for login - Username: %s' % self.username)
+                logger.info('Entered data for login - Password: %s ' % self.password)
             except:
                 return False
             self.driver.find_element_by_xpath(xpath_list['login_page_xpath_login_btn']).click()
             self.url = "https://www.monkeytest2.com/user/sign-in/"
             self.driver.get(self.url)
             if "Welcome" in self.driver.title:
-                logger.error('Logged in with : %s  id' % self.username)
+                logger.info('Logged in with : %s  id' % self.username)
                 return True
             else:
                 logger.error('Failed to login with : %s  id' % self.username)
@@ -160,3 +164,33 @@ class Monkey():
     def demo_function(self):
         logger.error('Executed From : %s ')
         return True
+
+    def create_drag_drop_servey(self):
+        self.driver.get(self.url)
+        self.url = "https://www.monkeytest2.com/user/sign-in/"
+        self.driver.find_element_by_xpath(xpath_list['login_page_xpath_user_name']).send_keys(self.username)
+        self.driver.find_element_by_xpath(xpath_list['login_page_xpath_password']).send_keys(self.password)
+        self.driver.find_element_by_xpath(xpath_list['login_page_xpath_login_btn']).click()
+        self.url = "https://www.monkeytest2.com/home/?ut_source=header/"
+        self.driver.get(self.url)
+        if "Welcome" in self.driver.title:
+            logger.info("Logged in successful")
+            self.driver.find_element_by_xpath(xpath_list['create_survey_btn']).click()
+            self.driver.find_element_by_xpath(xpath_list['create_survey_from_scratch_btn']).click()
+            self.servery_title = "Servey 30 2018 1"
+            self.driver.find_element_by_xpath(xpath_list['create_survey_title_field']).send_keys(self.servery_title)
+            self.driver.find_element_by_xpath(xpath_list['create_survey_submit_btn']).click()
+            # wait = WebDriverWait(self.driver, 10)
+            # element = wait.until()
+            #self.driver.implicitly_wait(10)
+            time.sleep(7)
+            if self.servery_title in self.driver.title:
+                self.driver.find_element_by_xpath(xpath_list['changeQType']).click()
+                self.driver.find_element_by_xpath(xpath_list['dropdown_question_type']).click()
+                time.sleep(10)
+            else:
+                return False
+            return True
+        else:
+            logger.error("Login Failed")
+            return False

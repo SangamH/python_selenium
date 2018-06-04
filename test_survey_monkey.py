@@ -1,6 +1,6 @@
 from registration import registration
 from sign_in import signin
-from create_survery import create_survery
+from create_survery import create_survery,create_drag_drop_servey
 from demo_function import demo_function
 import pytest
 import sys
@@ -59,3 +59,6 @@ def test_my_fixture(my_fixture):
 @pytest.mark.trylast: mark a hook implementation function such that the plugin machinery will try to call it last/as late as possible.
 
 """
+def test_create_drag_drop_servey():
+	#assert signin(), "Error in Sign In"
+	assert create_drag_drop_servey(), "Error in create Drag and Drop survey"

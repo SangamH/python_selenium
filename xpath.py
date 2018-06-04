@@ -44,7 +44,9 @@ xpath_list = {
     "signup_page_xpath_user_name": "//input[@id='username']",
     "signup_page_xpath_password": "//input[@id='password']",
     "signup_page_xpath_fname": "//input[@name='first_name']",
-    "signup_page_xpath_lname": "//input[@name='last_name']']",
+    "signup_page_xpath_lname": "//input[@name='last_name']",
+    "dropdown_question_type": "//ul[@class='add-q-menu-right']//li/div/a[contains(text(),'Dropdown')]",
+    "changeQType": "//a[@id='changeQType']",
 }
 
 surveyBuilder_Xpath_List = {
